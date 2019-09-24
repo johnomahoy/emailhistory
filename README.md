@@ -1,4 +1,4 @@
-# eEmailhistory
+# Emailhistory
 
 The script will get all the data of the custom fields for the email history of a contact and insert it 
 into the contact notes.
